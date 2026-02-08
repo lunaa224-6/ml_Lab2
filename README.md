@@ -53,6 +53,8 @@ for unseen customers.
 
 ## Methodology Diagram
 
+![Methodology Diagram](methodology_diagram.png)
+
 The methodology diagram was generated using Mermaid Live Editor 
 to visually represent the machine learning workflow. 
 Artificial intelligence assistance was used to help structure 
